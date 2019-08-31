@@ -29,7 +29,7 @@ public class SplashSpeedActivity extends AppCompatActivity {
                 @Override
                 public void run() {
 
-                    Toast.makeText(SplashSpeedActivity.this, "Connecting..Please wait!", Toast.LENGTH_LONG).show();
+                    Toast.makeText(SplashSpeedActivity.this, "Welcome to the WINDY", Toast.LENGTH_LONG).show();
                 }
             }, 1000);
 
