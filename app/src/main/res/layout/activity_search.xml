@@ -59,7 +59,11 @@
             android:layout_height="0dp"
             android:text="8 days froecast" />
 
+
     </LinearLayout>
 
 
+
+
 </RelativeLayout>
+
